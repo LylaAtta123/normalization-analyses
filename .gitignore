@@ -47,3 +47,9 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# .DS_Store
+.DS_Store
+
+# data 
+data/merfish/original/merfish_mouse_cleaned_allcells_wregions_new.rds
