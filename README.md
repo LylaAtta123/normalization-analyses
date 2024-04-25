@@ -5,8 +5,9 @@ This repository contains the code used to analyze the impact of gene panel desig
 More details can be found in the [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.08.30.555624v2). 
 
 #### Summary of data sets and analyses performed:
-![Study Design](/img/schematic.pdf)
+![Study Design](/img/schematic.png)
 
 #### Graphical representation of conclusions:
-![Conclusion skewed](/img/skewed.pdf)
-![Conclusion nonskewed](/img/nonskewed.pdf)
+![Conclusion skewed](/img/skewed.png) \ 
+
+![Conclusion nonskewed](/img/nonskewed.png)
