@@ -8,6 +8,6 @@ More details can be found in the [Genome Biology paper](https://genomebiology.bi
 ![Study Design](/img/schematic.png)
 
 #### Graphical representation of conclusions:
-![Conclusion skewed](/img/skewed.png) \ 
+![Conclusion skewed](/img/skewed.png) 
 
 ![Conclusion nonskewed](/img/nonskewed.png)
