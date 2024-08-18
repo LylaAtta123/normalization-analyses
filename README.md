@@ -2,7 +2,7 @@
 
 This repository contains the code used to analyze the impact of gene panel design and choice of gene count normalization approach on downstream analysis and biological interpretation of imaging-based spatially resolved transcriptomics data. 
 
-More details can be found in the [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2023.08.30.555624v2). 
+More details can be found in the [Genome Biology paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03303-w). 
 
 #### Summary of data sets and analyses performed:
 ![Study Design](/img/schematic.png)
